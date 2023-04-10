@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago da Luz</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
-<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+
+<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagolight&label=Profile%20views&color=0e75b6&style=flat" alt="thiagolight" /> </p>
 
