@@ -23,7 +23,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="R" width="40" height="40"/> </a> 
  <a href="https://commons.wikimedia.org/wiki/File:R_logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/64px-R_logo.svg.png" alt="R" width="40" height="30"/> </a>  
 
-
 </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://makutu.io/wp-content/uploads/2022/01/azure_machine_learning_logo.png" alt="azure" width="100" height="40"/> </a>  
   
   
