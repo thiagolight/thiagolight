@@ -35,7 +35,7 @@
  
  <h3 align="left">Certifications:</h3>
  <div aling="center">
-  <a href="https://www.credly.com/badges/3daae0b2-8378-4d82-8797-7261ce31de17/public_url">
+  <a href="https://www.credly.com/badges/591e69ba-7ee0-4e31-8117-5db1e5ca3567/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/208327479-8ab05259-857c-4912-a374-1481dea18fb8.png" height="120" width="120">
   </a>
   <a href="https://www.credly.com/badges/a693e915-3f90-40ed-9185-e1c8b090e475/public_url">
