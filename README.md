@@ -38,8 +38,8 @@
   <a href="https://www.credly.com/badges/591e69ba-7ee0-4e31-8117-5db1e5ca3567/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/208327479-8ab05259-857c-4912-a374-1481dea18fb8.png" height="120" width="120">
   </a>
-  <a href="https://www.credly.com/badges/a693e915-3f90-40ed-9185-e1c8b090e475/public_url">
-    <img src="https://user-images.githubusercontent.com/100642061/208327482-11e42cd8-fd1f-4c8f-a363-9cad9cbb65a2.png" height="120" width="120">
+  <a href="https://www.credly.com/badges/12db8035-923e-4209-8ce8-b2ebed4c5b9a/public_url">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="120" width="120">
   </a>
 </div>
  
