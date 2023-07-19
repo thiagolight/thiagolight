@@ -41,7 +41,11 @@
   <a href="https://www.credly.com/badges/12db8035-923e-4209-8ce8-b2ebed4c5b9a/public_url">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="120" width="120">
   </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/pt-br/ThiagodaLuzFerreira-4395/F01FFDBE19E38ACC?sharingId=A942A48B269EAC98">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="120" width="120">
+  </a>
 </div>
+
  
  
 
