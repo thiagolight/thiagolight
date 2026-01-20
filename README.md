@@ -35,6 +35,13 @@
  
  <h3 align="left">Certifications:</h3>
  <div aling="center">
+  </a>
+    <a href="https://credentials.databricks.com/09b56f04-0099-4419-bd49-55830ff27b6a#acc.rYFlJHqo">
+    <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-gen-ai.png?v=1761153880" height="120" width="90">
+  </a>
+    <a href="https://www.credly.com/badges/8aab71b8-b90e-4f82-94f3-eba6ca2f0565/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" height="120" width="120">
+  </a>
   <a href="https://www.credly.com/badges/591e69ba-7ee0-4e31-8117-5db1e5ca3567/public_url">
     <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="120" width="120">
   </a>
@@ -44,10 +51,6 @@
     <a href="https://learn.microsoft.com/api/credentials/share/pt-br/ThiagodaLuzFerreira-4395/F01FFDBE19E38ACC?sharingId=A942A48B269EAC98">
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="120" width="120">
   </a>
-    <a href="https://www.credly.com/badges/8aab71b8-b90e-4f82-94f3-eba6ca2f0565/public_url">
-    <img src="https://images.credly.com/size/340x340/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png" height="120" width="120">
-  </a>
-  
 
   
 </div>
