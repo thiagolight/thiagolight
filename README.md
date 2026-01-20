@@ -22,8 +22,9 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="R" width="40" height="40"/> </a> 
  <a href="https://commons.wikimedia.org/wiki/File:R_logo.svg" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9K3TnXandLSz6t7uPsQHg9SLRBavkyJEM7g&s" alt="R" width="50" height="50"/> </a>  
-
 </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fUYZToZjZ6b4tBJ9HsMT2DuHZqwvV0ISEw&s" alt="azure" width="50" height="40"/> </a>  
+</a> <a href="https://developer.microsoft.com/pt-br/javascript/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg" alt="azure" width="50" height="40"/> </a>
+
   
   
 </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
